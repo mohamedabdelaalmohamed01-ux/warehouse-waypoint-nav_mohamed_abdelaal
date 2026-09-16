@@ -635,7 +635,7 @@ ros2 topic echo /waypoint_markers
 
 ## 24. Demonstration Video
 
-[Complete Narrated Demonstration Video](YOUR_VIDEO_LINK_HERE)
+[[Complete Narrated Demonstration Video](YOUR_VIDEO_LINK_HERE)](https://drive.google.com/file/d/16PXEJtR36JUpgdENpoLA09O_U8T13w_F/view?usp=sharing)
 
 The video should walk through: the Gazebo warehouse, robot startup,
 localization, RViz, Nav2, waypoint markers, arrival at Loading, the
