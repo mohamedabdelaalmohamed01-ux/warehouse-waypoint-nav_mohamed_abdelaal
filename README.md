@@ -619,10 +619,17 @@ Screenshots have not yet been captured for this write-up. Placeholders
 are referenced below — replace `images/*.png` with real captures from
 your own run before publishing.
 
-- ![alt text](map.png) — SLAM Toolbox building the warehouse map
--  ![alt text](amcl.png) — AMCL particle cloud converged
-- ![alt text](nav__2.png) — Nav2 driving the robot toward a goal
-- ![alt text](Mission_3.png) — BLUE/GREEN waypoint markers in RViz
+- <img width="567" height="421" alt="map" src="https://github.com/user-attachments/assets/8f698a3c-0797-41e5-b62c-355d8bbf3e5e" />
+ — SLAM Toolbox building the warehouse map
+-  <img width="562" height="418" alt="amcl" src="https://github.com/user-attachments/assets/741f6998-17a2-4e16-aaf3-fe4de5c3363c" />
+ — AMCL particle cloud converged
+-<img width="570" height="421" alt="nav__2" src="https://github.com/user-attachments/assets/362284a7-0926-400d-8085-f3ac9b920721" />
+ — Nav2 driving the robot toward a goal
+- <img width="561" height="421" alt="Mission_4" src="https://github.com/user-attachments/assets/f39d01f4-d787-4a4e-8b5f-67200cf6f21f" />
+<img width="563" height="425" alt="Mission_3" src="https://github.com/user-attachments/assets/be6c5e47-9b30-4b85-a923-10ec07787336" />
+<img width="561" height="421" alt="Mission_2" src="https://github.com/user-attachments/assets/bc7f6ecd-824c-4911-925b-261779929169" />
+<img width="547" height="378" alt="Mission_1" src="https://github.com/user-attachments/assets/c1dd61e6-5587-438c-92a6-77921291e62f" />
+ — BLUE/GREEN waypoint markers in RViz
 
 ## 24. Demonstration Video
 
